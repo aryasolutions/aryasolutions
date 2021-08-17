@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryasolutions
+- 👋 Hi, I’m @Mudassir Mukhtar
 - 👀 I’m interested in Web & Mobile Hybrid App Development
 - 🌱 I’m currently learning BSCS
 - 💞️ I’m looking to collaborate on ...
